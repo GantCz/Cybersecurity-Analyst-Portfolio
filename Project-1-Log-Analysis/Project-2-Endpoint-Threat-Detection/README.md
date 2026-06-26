@@ -1,4 +1,3 @@
----
 
 # Project 2: Endpoint Compromise Investigation & Threat Eradication
 
