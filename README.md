@@ -1,6 +1,6 @@
 # Cybersecurity-Analyst-Portfolio
 
-Welcome to my technical portfolio! Here I will document hands-on security operational workflows, configuration labs, and strategic governance reviews.
+Welcome to my technical portfolio! This repository documents security operational workflows, configuration labs, and strategic governance reviews conducted across heterogeneous enterprise environments, utilizing both Linux-based threat analysis tools and Windows-based identity infrastructure.
 
 ## 📂 Foundational Environment
 * [Foundational Lab: On-Premise AD & Identity Security](./Labs/ON-Premise-AD-Hardened)
