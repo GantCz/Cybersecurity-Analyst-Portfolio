@@ -7,7 +7,7 @@ Welcome to my technical portfolio! This repository documents security operationa
 
 ## 📂 Project Directory
 * [Project 1: Log Analysis & Brute Force Mitigation](./Project-1-Log-Analysis)
-* [Project 1b: Windows Log Analyis](./Project-1B-Windows-Log_Analysis)
+* [Project 1b: Windows Log Analyis](./Project-1B-Windows-Log-Analysis)
 * [Project 2: Endpoint Threat Detection & Incident Response](./Project-2-Endpoint-IR)
 * [Project 3: Vulnerability Management & Patching](./Project-3-Vulnerability-Management)
 * [Project 4: Phishing Simulation & Security Awareness](./Project-4-Phishing-Simulation)
